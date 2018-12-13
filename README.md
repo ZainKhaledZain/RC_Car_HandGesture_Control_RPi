@@ -2,9 +2,9 @@
 Is a project using a Raspberry pi to control an RC Car using hand gestures.
 
 Important Libraries used:
->> openCV               #open source computer vision functions
->> Adafruit_PCA9685     #(16-channel, 12bit-resolution) PWM module adafruit libraries
->> picamera             #For setting Camera parameters
+openCV               #open source computer vision functions
+Adafruit_PCA9685     #(16-channel, 12bit-resolution) PWM module adafruit libraries
+picamera             #For setting Camera parameters
 
 
 
